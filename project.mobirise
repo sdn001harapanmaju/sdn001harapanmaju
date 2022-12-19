@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SD_N_001_Harapan_Maju",
-    "currentPage": "index.html",
+    "currentPage": "galeri.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1268,7 +1268,7 @@
             },
             "H6": {
               "text-align": "center",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "H3": {
               "color": "#ffffff"
@@ -2278,7 +2278,7 @@
             },
             "H6": {
               "text-align": "center",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "H3": {
               "color": "#ffffff"
